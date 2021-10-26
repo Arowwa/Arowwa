@@ -62,7 +62,7 @@ Réalisation d'une application de collecte de données via formulaire web puis t
 Association loi 1901 pour l'encadrement d'un groupe de rock local
   - Gestion logistique de tournées
   - Enregistrement d'albums
-  - Production de clip : [Ataraxia](https://www.youtube.com/watch?v=Mg0uiXKYPQA), [Falling to Pieces](https://www.youtube.com/watch?v=Lz4uvPOerSY&t=146s)
+  - Production de clip : [Ataraxia](https://www.youtube.com/watch?v=Mg0uiXKYPQA), [Falling to Pieces](https://www.youtube.com/watch?v=Lz4uvPOerSY)
   <br><br>
 
 **Co-Organisateur d'un festival de musique** @[HUSH Festiavl](https://www.facebook.com/hushfestivalofficiel) _(2020 - Present)_<br>
