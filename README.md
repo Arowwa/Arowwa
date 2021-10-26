@@ -42,8 +42,8 @@ Réalisation d'une application de collecte de données via formulaire web puis t
 ## 💬 Langues
 
 **Français**: Langue Maternelle
-**English**: Fluent <br>
-**German**: Débutant
+**Anglais**: Fluent <br>
+**Allemand**: Débutant
 <br><br>
 
 ## ✔️ Skills
