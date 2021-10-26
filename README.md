@@ -39,7 +39,7 @@ Réalisation d'une application de collecte de données via formulaire web puis t
 **Classes Préparatoires** <br>
 [La Salle](http://www.lasallelille.com/page.php?id=33) - Lille, France _(2015 - 2017)_
 
-## 💬 Languages
+## 💬 Langages
 
 **Français**: Langue Maternelle
 **English**: Fluent <br>
