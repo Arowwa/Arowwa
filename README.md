@@ -4,7 +4,7 @@ _Ingénieur en Informatique et Technologies de l'Information spécialisé en dat
 
 [Email](mailto:thomas.fenot.1@gmail.com) / [Website](https://arowwa.github.io/cv/) / [LinkedIn](https://www.linkedin.com/in/thomas-fenot-1b1138203/) / [GitHub](https://github.com/Arowwa) 
 
-## 👩🏼‍💻 Expériences professionnelles
+## 👨‍💻 Expériences professionnelles
 
 **Ingénieur logiciel IA | stage de fin d'études** @ [ECONOCOM](https://www.econocom.com/fr) (ESN) _(Juillet 2020 - Décembre  2020)_ <br>
 Création d'un outil de désidentification IA (NLP). POC de classification de comptes rendus textuels avec CamemBERT.
@@ -14,7 +14,7 @@ Création d'un outil de désidentification IA (NLP). POC de classification de co
   - Implémentation dans un API web et déploiement en package
   - Documentation et suivi de prrojet pour pérénisation
   - **_Technologies utilisées:_** open-source project (doccano, prodi.gy), SQL, solr, python spacy, pytorch, pandas, docker, azure devops, git
-Le rapport de stage complet est dusponible [ici](https://drive.google.com/file/d/1AHx_kDpcI5965pU93JWqo1LfyMrfTsb1/view?usp=sharing).
+Le rapport de stage complet est disponible [ici](https://drive.google.com/file/d/1AHx_kDpcI5965pU93JWqo1LfyMrfTsb1/view?usp=sharing).
 <br><br>
 
 **Ingénieur étude et développement | stage** @ [WORLDLINE](https://fr.worldline.com/fr/home.html) _(Mai 2019 - Août 2019)_ <br>
@@ -34,7 +34,7 @@ Réalisation d'une application de collecte de données via formulaire web puis t
 [Université Laval](https://www.ulaval.ca/) - Québec, Canada _(Janvier 2020 - Mai 2020)_ <br>
 
 **École d'Ingenieurs** en Informatique et Technologies de l'Information, spécialité data/ml<br>
-[Hautes Études d'ingénieurshei](https://www.hei.fr/) - Lille, France _(2015 - 2020)_
+[Hautes Études d'ingénieurs](https://www.hei.fr/) - Lille, France _(2015 - 2020)_
 
 **Classes Préparatoires** <br>
 [La Salle](http://www.lasallelille.com/page.php?id=33) - Lille, France _(2015 - 2017)_
@@ -65,6 +65,5 @@ Association loi 1901 pour l'encadrement d'un groupe de rock local
   - Production de clip : [Ataraxia](https://www.youtube.com/watch?v=Mg0uiXKYPQA), [Falling to Pieces](https://www.youtube.com/watch?v=Lz4uvPOerSY&t=146s)
   <br><br>
 
-**Co-Organisateur d'un festival de musique** @[HUSH Festiavl](https://www.facebook.com/hushfestivalofficielyoutube ataraxia
-) _(2020 - Present)_<br>
+**Co-Organisateur d'un festival de musique** @[HUSH Festiavl](https://www.facebook.com/hushfestivalofficiel) _(2020 - Present)_<br>
 Responsable de la programmation et de l'encadrmeent des artistes avant, pendant et après le festival.
