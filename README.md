@@ -42,7 +42,7 @@ Réalisation d'une application de collecte de données via formulaire web puis t
 ## 💬 Langues
 
 **Français**: Langue Maternelle
-**Anglais**: Fluent <br>
+**Anglais**: Billingue <br>
 **Allemand**: Débutant
 <br><br>
 
@@ -56,7 +56,7 @@ Réalisation d'une application de collecte de données via formulaire web puis t
 **Outils**: Git, Windows, Linus, Docker
 <br><br>
 
-## 📌 On The Side
+## 📌 A côté
 
 **Président de Turbulences** _(2017 - Présent)_<br>
 Association loi 1901 pour l'encadrement d'un groupe de rock local
@@ -64,6 +64,5 @@ Association loi 1901 pour l'encadrement d'un groupe de rock local
   - Enregistrement d'albums
   - Production de clip : [Ataraxia](https://www.youtube.com/watch?v=Mg0uiXKYPQA), [Falling to Pieces](https://www.youtube.com/watch?v=Lz4uvPOerSY)
   <br><br>
-
 **Co-Organisateur d'un festival de musique** @[HUSH Festiavl](https://www.facebook.com/hushfestivalofficiel) _(2020 - Present)_<br>
 Responsable de la programmation et de l'encadrmeent des artistes avant, pendant et après le festival.
